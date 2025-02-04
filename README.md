@@ -21,3 +21,10 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install PyQt6 PyMuPDF
+```
+
+## DEMO
+
+![Image](https://github.com/user-attachments/assets/8dcea161-fafb-4aea-b7d5-079dad6863d3)
+
+![Image](https://github.com/user-attachments/assets/2253a866-d56a-4b4a-a851-b89361c329fc)
